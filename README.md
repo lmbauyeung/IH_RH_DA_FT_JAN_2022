@@ -8,46 +8,42 @@
 
 ---
 
-**Day 1**
+**Thursday**
 
 
 <table>
   <tr>
-   <td>09:00 - 09:40
+   <td>09:00 - 09:25
    </td>
-   <td>09:45 - 11:00
-   </td>
-   <td>
-   </td>
-   <td>11:10 - 12:20
+   <td>09:25 - 10:05
    </td>
    <td>
    </td>
-   <td>12:25 - 13:00
+   <td>10:15 - 11:30
    </td>
-   <td>13:00 - 14:00
+   <td>
    </td>
-   <td>14:00  - 15:00
+   <td>11:40 - 13:00
    </td>
-   <td>15:00 - 18:00
+   <td>13:00 - 14:15
+   </td>
+   <td>14:15 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Program Intro
+   <td>Warm up
    </td>
-   <td>Class Intro
+   <td>Lecture
    </td>
    <td>10 mins Break
    </td>
    <td>Lecture
    </td>
-   <td>5 mins Break
+   <td>10 mins Break
    </td>
    <td>Lecture
    </td>
    <td>Lunch Break
-   </td>
-   <td>Lecture
    </td>
    <td>Lab Work
    </td>
@@ -66,6 +62,38 @@
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
 <p>
+<strong>Week 1 | Day4 `s Key Objectives:</strong>
+<ul>
+
+<li>Programming Tips and coding efficiency.
+
+<li>Lambda functions.
+
+<li>Data Analysis Intro and Process
+
+<li>Numpy Arrays
+
+<p>
+<strong>Week 1 | Day3 `s Key Objectives:</strong>
+<ul>
+
+<li>Python functions
+
+<li>Python List comprehension
+
+<li>Pre-work review
+
+<p>
+<strong>Week 1 | Day2 `s Key Objectives:</strong>
+<ul>
+
+<li>Conda: Package and Environment Manager
+
+<li>Python Data Structures: Lists, Tuples, dictionaries, Sets
+
+<li>Python String Operations
+
+<p>
 <strong>Week 1 | Day1 `s Key Objectives:</strong>
 <ul>
 
@@ -80,18 +108,24 @@
 <li>Jupyter Notebooks and Markdown
 </li>
 </ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
    </td>
   </tr>
   <tr>
-   <td><strong>Day 1</strong>
+   <td><strong>Monday</strong>
    </td>
-   <td><strong>Day 2</strong>
+   <td><strong>Tuesday</strong>
    </td>
-   <td><strong>Day 3</strong>
+   <td><strong>Wednesday</strong>
    </td>
-   <td><strong>Day 4</strong>
+   <td><strong>Thursday</strong>
    </td>
-   <td><strong>Day 5</strong>
+   <td><strong>Friday</strong>
 <p>
 It is Friday!! 🥳😎✌️
 <p>
@@ -195,11 +229,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Notebook_Code_Along_Numpy_%20Structure.ipynb">[Notebook] Numpy Arrays</a>
 <p>
-[Lab] Data Gathering
+Data Gathering
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Numpy/Labs/Lab_100_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Numpy/Labs/Lab_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1HFfUSfhowaFVw277Vnqg4u1XNXEpJVaH/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Map</a>
 <p>
