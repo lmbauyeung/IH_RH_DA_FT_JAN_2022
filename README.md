@@ -1,4 +1,25 @@
-<!-- Yay, no errors, warnings, or alerts! -->
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 2.761 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β33
+* Thu Jan 13 2022 11:16:21 GMT-0800 (PST)
+* Source doc: Index_Jan_2022
+* Tables are currently converted to HTML tables.
+----->
+
 
 <div align="center">
 
@@ -8,7 +29,7 @@
 
 ---
 
-**Thursday**
+**Friday**
 
 
 <table>
@@ -62,6 +83,16 @@
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
 <p>
+<strong>Week 1 | Day5 `s Key Objectives:</strong>
+<ul>
+
+<li>Map function
+
+<li>Intro to Pandas.
+
+<li>Weekly Recap
+
+<p>
 <strong>Week 1 | Day4 `s Key Objectives:</strong>
 <ul>
 
@@ -106,6 +137,8 @@
 <li>Git & GitHub
 
 <li>Jupyter Notebooks and Markdown
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -227,9 +260,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Notebook_Code_Along_Numpy_%20Structure.ipynb">[Notebook] Numpy Arrays</a>
-<p>
-Data Gathering
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Numpy/Notebook_Code_Along_Numpy.ipynb">[Notebook] Numpy Arrays</a>
 <p>
 <br>
 <p>
@@ -249,7 +280,7 @@ Data Gathering
 <p>
 Weekly Retro
 <p>
-<a href="https://www.machinelearningplus.com/python/101-pandas-exercises-python/">[Lab] Pandas Exercises</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/tree/main/Class_Materials/Pandas/Labs">[Lab] Pandas Exercises</a>
    </td>
   </tr>
 </table>
